@@ -25,4 +25,4 @@ Funciones Principales:
 7)Salir del Programa
 
 
-Por predeterminado ya viene incluido 10 productos con sus respectivos id
+Por predeterminado ya viene incluido 10 productos con sus respectivos ID
